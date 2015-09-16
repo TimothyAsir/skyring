@@ -1,0 +1,14 @@
+{
+    "servers": [
+        {
+	    "address": "192.168.122.219",
+	    "port": 389,
+            "base": "cn=users,cn=accounts,dc=info,dc=com"
+        },
+        {
+            "address": "192.168.122.57",
+	     "port": 80,
+            "base": "cn=users,cn=accounts,dc=info,dc=com"
+        }
+    ]
+}
